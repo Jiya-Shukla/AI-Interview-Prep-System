@@ -1,6 +1,6 @@
 # -AI-Interview-Preparation-System
 
-Major project for college
+Major project for college :-
 
 ✳️Project Description
 
