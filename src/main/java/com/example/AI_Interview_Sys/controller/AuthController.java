@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/auth")
+@RequestMapping(value = "/auth")
 @CrossOrigin
 public class AuthController {
 
@@ -35,6 +35,4 @@ public class AuthController {
 
         return "Invalid Credentials";
     }
-}
-
 }
